@@ -1,0 +1,12 @@
+@media (max-width: 650px) {
+  .p-1.rounded.bg-light {
+    width: 75%;
+  }
+}
+
+/* 50% width on screens 700 pixels and larger */
+@media (min-width: 651px) {
+  .p-1.rounded.bg-light {
+    width: 50%;
+  }
+}
